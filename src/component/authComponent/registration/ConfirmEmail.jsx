@@ -1,9 +1,7 @@
 import React from 'react';
-import {
-    InfoCircleTwoTone
-} from '@ant-design/icons';
-import style from './ConfirmEmail.module.scss'
+import { InfoCircleTwoTone } from '@ant-design/icons';
 
+import style from './ConfirmEmail.module.scss'
 
 const ConfirmEmail = () => {
     return (
@@ -15,5 +13,7 @@ const ConfirmEmail = () => {
         </div>
     )
 }
+
+
 
 export default ConfirmEmail;
