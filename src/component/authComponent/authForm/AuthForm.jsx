@@ -10,6 +10,7 @@ import FormTitle from '../formTitle/FormTitle';
 function AuthForm() {
 
     const onFinish = values => {
+        
         console.log(values);
     };
 
