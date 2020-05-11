@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/react-chat-app/static/css/main.50332fa3.chunk.css",
-    "main.js": "/react-chat-app/static/js/main.69463add.chunk.js",
-    "main.js.map": "/react-chat-app/static/js/main.69463add.chunk.js.map",
+    "main.css": "/react-chat-app/static/css/main.d7d89fee.chunk.css",
+    "main.js": "/react-chat-app/static/js/main.bf928ade.chunk.js",
+    "main.js.map": "/react-chat-app/static/js/main.bf928ade.chunk.js.map",
     "runtime-main.js": "/react-chat-app/static/js/runtime-main.96232b0b.js",
     "runtime-main.js.map": "/react-chat-app/static/js/runtime-main.96232b0b.js.map",
     "static/css/2.c8966837.chunk.css": "/react-chat-app/static/css/2.c8966837.chunk.css",
-    "static/js/2.cd63b6c2.chunk.js": "/react-chat-app/static/js/2.cd63b6c2.chunk.js",
-    "static/js/2.cd63b6c2.chunk.js.map": "/react-chat-app/static/js/2.cd63b6c2.chunk.js.map",
+    "static/js/2.83ad5908.chunk.js": "/react-chat-app/static/js/2.83ad5908.chunk.js",
+    "static/js/2.83ad5908.chunk.js.map": "/react-chat-app/static/js/2.83ad5908.chunk.js.map",
     "index.html": "/react-chat-app/index.html",
-    "precache-manifest.8866fe3f2ff9e679d4873d1fbe1d0dd9.js": "/react-chat-app/precache-manifest.8866fe3f2ff9e679d4873d1fbe1d0dd9.js",
+    "precache-manifest.0efc3ccd04b6e4cb822d747df8d3e79a.js": "/react-chat-app/precache-manifest.0efc3ccd04b6e4cb822d747df8d3e79a.js",
     "service-worker.js": "/react-chat-app/service-worker.js",
     "static/css/2.c8966837.chunk.css.map": "/react-chat-app/static/css/2.c8966837.chunk.css.map",
-    "static/css/main.50332fa3.chunk.css.map": "/react-chat-app/static/css/main.50332fa3.chunk.css.map",
-    "static/js/2.cd63b6c2.chunk.js.LICENSE.txt": "/react-chat-app/static/js/2.cd63b6c2.chunk.js.LICENSE.txt",
+    "static/css/main.d7d89fee.chunk.css.map": "/react-chat-app/static/css/main.d7d89fee.chunk.css.map",
+    "static/js/2.83ad5908.chunk.js.LICENSE.txt": "/react-chat-app/static/js/2.83ad5908.chunk.js.LICENSE.txt",
     "static/media/audioWave.svg": "/react-chat-app/static/media/audioWave.2b8196a5.svg",
     "static/media/checked.svg": "/react-chat-app/static/media/checked.c1f419d6.svg",
     "static/media/noChecked.svg": "/react-chat-app/static/media/noChecked.1456f013.svg",
@@ -24,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.96232b0b.js",
     "static/css/2.c8966837.chunk.css",
-    "static/js/2.cd63b6c2.chunk.js",
-    "static/css/main.50332fa3.chunk.css",
-    "static/js/main.69463add.chunk.js"
+    "static/js/2.83ad5908.chunk.js",
+    "static/css/main.d7d89fee.chunk.css",
+    "static/js/main.bf928ade.chunk.js"
   ]
 }
