@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7f7e2f0994f19418fc0b640d3d6afb54",
+    "revision": "7bd4216f5be7b8a9848cbc131d914406",
     "url": "/react-chat-app/index.html"
   },
   {
-    "revision": "3e166ac9f6313892b475",
-    "url": "/react-chat-app/static/css/2.c8966837.chunk.css"
+    "revision": "f486a8021a88227b9ee6",
+    "url": "/react-chat-app/static/css/2.179f9bc0.chunk.css"
   },
   {
-    "revision": "ce99e8d64b6e734963ea",
-    "url": "/react-chat-app/static/css/main.d7d89fee.chunk.css"
+    "revision": "14c34a11b02f29e47640",
+    "url": "/react-chat-app/static/css/main.f75dc311.chunk.css"
   },
   {
-    "revision": "3e166ac9f6313892b475",
-    "url": "/react-chat-app/static/js/2.83ad5908.chunk.js"
+    "revision": "f486a8021a88227b9ee6",
+    "url": "/react-chat-app/static/js/2.41ea5861.chunk.js"
   },
   {
     "revision": "cacaf3f01dd3bd8237006f7c58951c1c",
-    "url": "/react-chat-app/static/js/2.83ad5908.chunk.js.LICENSE.txt"
+    "url": "/react-chat-app/static/js/2.41ea5861.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ce99e8d64b6e734963ea",
-    "url": "/react-chat-app/static/js/main.bf928ade.chunk.js"
+    "revision": "14c34a11b02f29e47640",
+    "url": "/react-chat-app/static/js/main.02d774e5.chunk.js"
   },
   {
     "revision": "40280657cfe86b036778",
@@ -46,9 +46,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "998b856f277091265c0ed9022f18ed6b",
     "url": "/react-chat-app/static/media/play.998b856f.svg"
-  },
-  {
-    "revision": "7c6628a29a3fa0dff54199c29805f3df",
-    "url": "/react-chat-app/static/media/test.7c6628a2.png"
   }
 ]);
